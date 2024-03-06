@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waleed-wajid. I work as a Data Scientist at Murrumbidgee Irrigation. I'm interested in building and implementing tools that enable data-driven decision making!
+- 👋 Hi, I’m @waleed-wajid. I'm a Data Scientist interested in building and implementing tools that enable data-driven decision making!
 
 <!---
 waleed-wajid/waleed-wajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
